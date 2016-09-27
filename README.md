@@ -1,1 +1,2 @@
 # mamcac
+# matlab magnetoencephalografi
